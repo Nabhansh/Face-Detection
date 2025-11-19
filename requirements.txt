@@ -1,0 +1,5 @@
+opencv-python
+numpy
+Pillow
+# Optional but recommended for face recognition:
+face_recognition
